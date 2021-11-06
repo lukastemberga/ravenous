@@ -1,3 +1,5 @@
+This project was done as part of Codecademy Full stack engineer career path at [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
